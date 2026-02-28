@@ -1,6 +1,6 @@
 <p align="center" width="100%">
-   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1f859665-cddb-4e31-877c-c343d3a13045" />
+    <img width="2048" height="164" alt="image" src="https://github.com/user-attachments/assets/a0be4b39-6741-4989-b860-5a125c7cbd4c" />
 
 
 <p align="center" width="100%">
- " would you die 2night 4 love ? "
+" would you die 2night 4 love ? "
