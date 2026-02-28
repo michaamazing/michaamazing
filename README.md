@@ -3,4 +3,4 @@
 
 
 <p align="center" width="100%">
-" would you die 2night 4 love ? "
+" hug me and say goodbye ? "
